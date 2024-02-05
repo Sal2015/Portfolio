@@ -42,13 +42,21 @@ a{
     border-radius:50px;
     margin:20px;
 }
-.ex{
-    color:white;
-}
-p{
-    font-size: 20px;;
-}
+
 .stat{
-    
+    padding:20px;
     background-color:rgb(125, 121, 121,0.5);
+}
+.ski{
+    padding:20px;
+    background-color:rgb(125, 121, 121,0.5);
+}
+.hob{
+    padding:20px;
+    background-color:rgb(125, 121, 121,0.5);
+}
+.con{
+    color:white;
+    background-color: black;
+   
 }
