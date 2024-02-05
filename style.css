@@ -1,0 +1,54 @@
+html{
+    scroll-behavior:smooth;
+}
+.he{
+    
+    background-color:black;
+    color:white;
+    font-size: 100px;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(33, 105, 76);
+    float:left;
+    width:25%;
+    height:50px;
+    font-size:20px;
+    font-weight:bold;
+    border:none;
+}
+.btn:hover{
+    background-color:rgb(104, 160, 116);
+    transition:0.5s;
+}
+.bkd{
+    background-image:url("https://coolwallpapers.me/picsup/5259720-tree-nature-cloud-wallpaper-backround-minimalistic-minimal-cold-snow-alp-alpen-berge-mountain-nebel-foggy-mood-deep-fog-wanderlust-outdoor-creative-commons-images.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+.abt{
+    padding:100px;
+    background-color:rgb(125, 121, 121,0.5);
+    
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+.self{
+    border:3px solid black;
+    height:200px;
+    border-radius:50px;
+    margin:20px;
+}
+.ex{
+    color:white;
+}
+p{
+    font-size: 20px;;
+}
+.stat{
+    
+    background-color:rgb(125, 121, 121,0.5);
+}
